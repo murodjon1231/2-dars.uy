@@ -1,0 +1,41 @@
+body{
+    background-color:#2A5D5A;
+    height: 1024px;
+    }
+    .daa{
+        width: 391px;
+     margin-top: 46px;
+     margin-left: 500px;
+    background-color: #311313;
+    padding: auto;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    }
+    .gaa{
+        width: 1000px;
+    height: 700px;
+    margin-top: 19px;
+     margin-left: 220px;
+    background-color: black;
+    border: 10px solid red;
+    }
+    .yee{
+    background-color: aqua;
+    margin-top: 38px;
+    margin-left: 35px;
+    width:  896px;
+    height: 290px;
+    padding-left: 35px;
+    padding-top:5px;
+    }
+    .aaaaaaaaaaaaaa{
+        background-color: aqua;
+        margin-top: 38px;
+        margin-left: 35px;
+        width:  896px;
+        height: 290px;
+        padding-left: 35px;
+        padding-top:5px;
+    }
